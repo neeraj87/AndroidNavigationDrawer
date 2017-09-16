@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NavigationDrawerTest</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="profile_menu">Profile</string>
+    <string name="logout_option">Log Out</string>
+    <string name="dummy_string">Dummy String</string>
+    <string-array name="nav_drawer_items">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Fourth</item>
+        <item>Fifth</item>
+        <item>Sixth</item>
+    </string-array>
+</resources>
